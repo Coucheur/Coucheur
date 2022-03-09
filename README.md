@@ -65,7 +65,7 @@ Social movie app, like Spotify for music, perhaps an extension of Netflix, where
    * Leads to profile of friend that is tapped by user
 
 ## Wireframes
-![](https://i.imgur.com/xXCSrub.jpg)
+![](https://i.imgur.com/WnkNXHb.jpg)
 
 
 ### [BONUS] Digital Wireframes & Mockups
