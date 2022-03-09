@@ -75,7 +75,12 @@ Social movie app, like Spotify for music, perhaps an extension of Netflix, where
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+User model
+
+|Propety|Type|Description|
+|---|---|---|
+|Username|String|The username of the user|
+|Password|String|Hashed password of the user|
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
