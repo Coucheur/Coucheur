@@ -82,6 +82,13 @@ User model
 |Username|String|The username of the user|
 |Password|String|Hashed password of the user|
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+* Home Screen
+  * (GET) Get all recommended movies for user
+  * (GET) Random movies for user to like
+  * (PUT) Post liked movies to user's liked movies
+* Login Screen
+  * (POST) Sign up user
+  * (POST) Login user
+* Profile Screen
+  * (GET) Friends list
+  * (GET) Liked movies list
